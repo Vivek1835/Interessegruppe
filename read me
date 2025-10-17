@@ -1,0 +1,7 @@
+<article>	Defines an article
+<aside>	Defines content aside from the page content
+<audio>
+<base>	Specifies the base URL/target for all relative URLs in a document
+<button>	Defines a clickable button
+<canvas>	Used to draw graphics, on the fly, via scripting (usually JavaScript)
+<caption>	Defines a table caption
