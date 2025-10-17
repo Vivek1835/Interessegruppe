@@ -5,6 +5,8 @@
 <button>	Defines a clickable button
 <canvas>	Used to draw graphics, on the fly, via scripting (usually JavaScript)
 <caption>	Defines a table caption
-
-
-    dette er en test
+    oppgaver 2
+ jeg vart til Elkjøp webside og fant at de bruker flere HTML tagger som jeg ikke har brukt før. Jeg har brukt <article> taggen for å definere et selvstendig innhold på siden min. 
+    Jeg har også brukt <aside> taggen for å legge til innhold som er relatert til hovedinnholdet, men ikke en del av det.
+    I tillegg har jeg brukt <button> taggen for å lage en klikkbar knapp på siden min.
+    De bruker mest <div></div> taggen for å gruppere elementer sammen og anvende CSS-stiler på dem.
