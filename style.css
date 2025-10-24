@@ -1,0 +1,37 @@
+.html, body {
+    background-color: #484e53;
+    font-family: monospace;
+}
+.header {
+    background-color: #7197bd;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.nav{
+    background-color: rgb(95, 126, 153);
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px rgba(253, 0, 0, 0.2);
+}
+.text-box {
+    background-color: #f0f0f0;
+    border: 2px solid #333;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 18px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.9);
+    font-size: 16px;
+    line-height: 1.5;
+}
+.highlight {
+    background-color: yellow;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
